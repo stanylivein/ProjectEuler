@@ -39,7 +39,7 @@ class Solution1_1
 	{
 		/**
 		 * here we added the two results of multiples and
-		 * minus the Least common multiple of both the numbers
+		 * minus the Least common multiple number result of both the numbers
 		 * 
 		 */
 		long result=sumDivisibleBy(3)+sumDivisibleBy(5)-sumDivisibleBy(15);
